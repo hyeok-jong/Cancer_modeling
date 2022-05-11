@@ -1,2 +1,2 @@
-# Cancer_modeling
-classification model for skin cancer
+# Cancer Modeling
+Classification model for skin cancer
