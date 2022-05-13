@@ -23,6 +23,11 @@ So, I didn't used torch.transformation instead customed that.
 After running `preprocessing.ipynb` one can get labeled image numpy.
 
 
-# 2. Training.  
+# 2. Model  
+
+![feature_extract](https://user-images.githubusercontent.com/78862026/168215494-d3adf281-4004-49f8-aa19-5b89d5a30267.png)
+
+# 3. Test  
+[Pre-trainined](https://drive.google.com/file/d/1I1CV3I-Jg6Nfi4K6yKwrU3L6wCysBr4f/view?usp=sharing)
 
 
