@@ -23,6 +23,6 @@ So, I didn't used torch.transformation instead customed that.
 After running `preprocessing.ipynb` one can get labeled image numpy.
 
 
-#. 2. Training.  
+# 2. Training.  
 
 
